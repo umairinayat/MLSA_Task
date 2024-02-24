@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/mon.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "This is Montain image. This is backgroud photo";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Tips prediction Machine Leraing Model 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This project organizes various tips and contents of matplotlib which we browse every day.",
+    url: "https://www.kaggle.com/code/subinium/simple-matplotlib-visualization-tips ",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Heart Disease Prediction Machine Learning Model 🎉",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This project predicts the heart disease using machine learning model.",
+    url: "https://www.kaggle.com/code/danishmubashar/heart-disease-prediction-by-danish ",
   },
   {
-    title: "My Resume Site",
+    title: "Diamond Price Prediction Machine Learning Model 🎉",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This project predicts the diamond price using machine learning model.",
+    url: "https://www.kaggle.com/code/karnikakapoor/diamond-price-prediction ",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Banking Management System 🎉 in C++",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Baniking Management System is a simple console based application that is very easy to understand and use.",
+    url: "https://github.com/umairinayat/Banking-management-system ",
   },
 ];
 
